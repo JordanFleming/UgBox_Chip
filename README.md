@@ -7,6 +7,7 @@ For Edge Processor (ODROID-XU4)
 1. Configure 16 GB uSD Card by inserting into SD card adapter.
 1. Select 'Make EP SD' on desktop.
 1. After the terminal indicates the process is complete, remove uSD card.
+![image of SD card handling](https://github.com/JordanFleming/UgBox_Chip/blob/master/SD_Card.png?raw=true)
 1. Insert the uSD card into the uSD card slot on ODROID-XU4 chip.
 1. Line up the pins on the red Hardkernel eMMC card with the blue MicroSD eMMC Reader chip.
 1. Insert the MicroSD eMMC Reader into the SD card adapter.
