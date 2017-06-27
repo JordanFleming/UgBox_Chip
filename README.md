@@ -30,6 +30,7 @@
 1. Check that screen reads 'ep reports cleared. X seconds ago.'.
 ![image of clr rep](https://github.com/JordanFleming/UgBox_Chip/blob/master/Clear_Reports.png?raw=true)
 1. Locate black, red and white wire trio on ODROID-XU4 chip.
+![image of wire trio](https://github.com/JordanFleming/UgBox_Chip/blob/master/Edge_Processor_Images/trio_wires.png?raw=true)
 1. Short black and white wires securely with wire-short device.
 ![image of wire short](https://github.com/JordanFleming/UgBox_Chip/blob/master/Short_wires.png?raw=true)
 
@@ -91,13 +92,14 @@
 1. Select 'Make NC eMMC' on desktop.
 1. After the terminal indicates the process is complete, remove the Hardkernel eMMC card and MicroSD eMMC Reader from the SD card adapter.
 1. Snapfit the Hardkernel eMMC card to the back of ODROID-C1+ chip.
-![image of SD eMMC card insertion](
+![image of SD eMMC card insertion](https://github.com/JordanFleming/UgBox_Chip/blob/master/Edge_Processor_Images/c1+_SD_eMMC_insertion.png?raw=true)
 
 **Step 2.**
 1. Connect the network cable to ODROID-C1+ chip.
 1. Connect 3 USB cables to stacked USB port on ODROID-C1+ chip.
+![image of 3 usb](https://github.com/JordanFleming/UgBox_Chip/blob/master/Edge_Processor_Images/USB_3%3E4.png?raw=true)
 1. Connect C1+ cable to ODROID-C1+ chip.
-![image of connecting cables](https://github.com/JordanFleming/UgBox_Chip/blob/master/Plug_in_Cables.png?raw=true)
+![image of c1+ cable](https://github.com/JordanFleming/UgBox_Chip/blob/master/Edge_Processor_Images/C1+.png?raw=true)
 1. Select 'Component Test NC' on desktop.
 ![image of cp test](https://github.com/JordanFleming/UgBox_Chip/blob/master/CP_test_select.png?raw=true)
 1. Select 'Clear Reports' on Test Report: nc page.
@@ -126,7 +128,6 @@
 **Step 3.**
 1. Select the 'Shutdown Device' button.
 1. Check that the screen reads 'ODROID on c1 shutdown gracefully. X seconds ago.'.
-![image of shutdown](https://github.com/JordanFleming/UgBox_Chip/blob/master/Shutdown.png?raw=true)
 1. Disconnect barrel power cable from ODROID-C1+ chip.
 1. Reconnect barrel power cable to ODROID-C1+ chip.
 1. Check that screen reads 'ODROID on c1 powered up. X seconds ago.'.
