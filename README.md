@@ -1,5 +1,5 @@
 # UgBox_Chip
-*How To: Verify Chip Function - Electrical*
+*How To: Verify Board Function - Electrical*
 
 ## ***For Edge Processor (ODROID-XU4)***
 
