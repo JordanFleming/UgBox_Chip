@@ -1,7 +1,7 @@
 # UgBox_Chip
 *How To: Verify Board Function - Electrical*
 
-## ***For Edge Processor (ODROID-XU4)***
+## ***Test Procedure Edge Processor (ODROID-XU4)***
 
 **Step 1.**
 1. Configure 16 GB uSD Card by inserting into SD card adapter.
@@ -79,7 +79,7 @@
 1. Mark device operable. Otherwise, if unable to complete each of the steps in entirety, mark device inoperable.
 
 
-## ***For Node Control (ODROID-C1+)***
+## ***Test Procedure Node Control (ODROID-C1+)***
 
 
 **Step 1.**
